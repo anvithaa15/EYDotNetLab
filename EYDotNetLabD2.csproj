@@ -72,9 +72,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="P2.cs" />
-    <Compile Include="prg.cs" />
-    <Compile Include="prog3.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="p4.cs" />
+    <Compile Include="p3.cs" />
+    <Compile Include="p1.cs" />
+    <Compile Include="p5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
