@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EYDotNetDay2.exe" size="5568">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EYDotNetDay2.exe" size="6080">
       <assemblyIdentity name="EYDotNetDay2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>7k7DS0IjtBj1iwA8TPXSZLaM7nm0IqJHDSrqO8iIP5s=</dsig:DigestValue>
+        <dsig:DigestValue>Vi9r5My55tl0k2rmEViZjaS52uaIYbkDq65N6WRXRc4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

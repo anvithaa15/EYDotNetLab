@@ -76,6 +76,7 @@
     <Compile Include="p3.cs" />
     <Compile Include="p1.cs" />
     <Compile Include="p5.cs" />
+    <Compile Include="p6.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
