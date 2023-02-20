@@ -1,0 +1,11 @@
+C:\Users\labuser\source\repos\EYDotNetDay2\EYDotNetDay2\bin\Debug\EYDotNetDay2.exe.config
+C:\Users\labuser\source\repos\EYDotNetDay2\EYDotNetDay2\bin\Debug\EYDotNetDay2.exe.manifest
+C:\Users\labuser\source\repos\EYDotNetDay2\EYDotNetDay2\bin\Debug\EYDotNetDay2.application
+C:\Users\labuser\source\repos\EYDotNetDay2\EYDotNetDay2\bin\Debug\EYDotNetDay2.exe
+C:\Users\labuser\source\repos\EYDotNetDay2\EYDotNetDay2\bin\Debug\EYDotNetDay2.pdb
+C:\Users\labuser\source\repos\EYDotNetDay2\EYDotNetDay2\obj\Debug\EYDotNetLab.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\EYDotNetDay2\EYDotNetDay2\obj\Debug\EYDotNetDay2.exe.manifest
+C:\Users\labuser\source\repos\EYDotNetDay2\EYDotNetDay2\obj\Debug\EYDotNetDay2.application
+C:\Users\labuser\source\repos\EYDotNetDay2\EYDotNetDay2\obj\Debug\EYDotNetDay2.exe
+C:\Users\labuser\source\repos\EYDotNetDay2\EYDotNetDay2\obj\Debug\EYDotNetDay2.pdb
+C:\Users\labuser\source\repos\EYDotNetDay2\EYDotNetDay2\obj\Debug\EYDotNetLab.csproj.AssemblyReference.cache

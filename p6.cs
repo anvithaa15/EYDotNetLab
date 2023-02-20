@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 
-namespace EYDotNetDay2
-{
+//namespace EYDotNetDay2
+//{
     //structure====================================================
 
     //struct Book
@@ -79,29 +79,29 @@ namespace EYDotNetDay2
 
 
     //constructor===================================================
-    class india
-    {
-        public india() //default
-        {
-            Console.WriteLine("Default constructor is invoked");
-        }
-        public india(int a) //parameterized
-        {
-            Console.WriteLine("default constructor is invoked "+"  " +a);
-        }
-    }
+//    class india
+//    {
+//        public india() //default
+//        {
+//            Console.WriteLine("Default constructor is invoked");
+//        }
+//        public india(int a) //parameterized
+//        {
+//            Console.WriteLine("default constructor is invoked "+"  " +a);
+//        }
+//    }
 
-    class constructor_demo
-    {
-        static void Main(string[] args)
-        {
-            india i1 = new india();
-            india i2 = new india(5);
+//    class constructor_demo
+//    {
+//        static void Main(string[] args)
+//        {
+//            india i1 = new india();
+//            india i2 = new india(5);
 
-            Console.ReadLine();
-        }
-    }
-}
+//            Console.ReadLine();
+//        }
+//    }
+//}
 
 
 
