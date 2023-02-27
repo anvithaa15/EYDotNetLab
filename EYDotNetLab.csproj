@@ -23,7 +23,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>10</ApplicationRevision>
+    <ApplicationRevision>11</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -71,9 +71,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="P-22.cs" />
+    <Compile Include="..\..\..\..\P-22.cs">
+      <Link>P-22.cs</Link>
+    </Compile>
     <Compile Include="P1-20-21.cs" />
     <Compile Include="p2.cs" />
+    <Compile Include="P23.cs" />
+    <Compile Include="P24.cs" />
+    <Compile Include="P27.cs" />
     <Compile Include="p4.cs" />
     <Compile Include="p3.cs" />
     <Compile Include="p1.cs" />
