@@ -1,4 +1,4 @@
-﻿//============================OOPS Concept===============================
+﻿//============================OOPS Concept part 1===============================
 
 using System;
 using System.Collections.Generic;
@@ -30,8 +30,8 @@ namespace EYDotNetDay2
 
     //class mainclass
     //{
-    //    static void Main(string[] args)
-    //    {
+    static void Main(string[] args)
+        {
     //        Vehicle obj = new Vehicle();
     //        obj.enginemade();
     //        obj.quality();
@@ -278,33 +278,33 @@ namespace EYDotNetDay2
     //}
 
     //---------------------function overriding--------------------------
-    class myclass
-    {
-        public virtual void func1()
-        {
-            Console.WriteLine("function 1---myclass");
-        }
+//    class myclass
+//    {
+//        public virtual void func1()
+//        {
+//            Console.WriteLine("function 1---myclass");
+//        }
 
-    }
-    class india : myclass
-    {
-        public override void func1()
-        {
-            Console.WriteLine("function 1---india");
-            //base.func1();
-        }
-    }
-    class prog
-    {
-        static void Main(string[] args)
-        {
-            //myclass m1 = new myclass();
-            //m1.func1();
-            india i = new india();
-            i.func1();             //india's func1 function will be executed over myclass func
+//    }
+//    class india : myclass
+//    {
+//        public override void func1()
+//        {
+//            Console.WriteLine("function 1---india");
+//            //base.func1();
+//        }
+//    }
+//    class prog
+//    {
+//        static void Main(string[] args)
+//        {
+//            //myclass m1 = new myclass();
+//            //m1.func1();
+//            india i = new india();
+//            i.func1();             //india's func1 function will be executed over myclass func
 
-            Console.ReadLine();
-        }
-    }
+//            Console.ReadLine();
+//        }
+//    }
 }
 
