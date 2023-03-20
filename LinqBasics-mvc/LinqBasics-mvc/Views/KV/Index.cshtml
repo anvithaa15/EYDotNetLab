@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div>
+    <p>student details</p>
+    <ul>
+        @foreach (var i in ViewBag.result)
+        {
+            <li>
+                <p>student ID: @i.studid</p>
+                <p>student name: @i.studname</p>
+                <p>student marks: @i.studmarks</p>
+            </li>
+        }
+    </ul>
+
+    <p> total number of students: @ViewBag.value</p>
+
+    <p>another student: @ViewBag.name</p>
+</div>

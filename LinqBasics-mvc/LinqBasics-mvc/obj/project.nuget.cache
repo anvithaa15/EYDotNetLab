@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EN1fbqJ3fqsHenw5+7BoD5i/6bC+jHu5oZeKhLIJForyhMLUZjt8KgjbvzqkK8a22hTm5hSq0Y7vztOHm60EMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\labuser\\source\\repos\\LinqBasics-mvc\\LinqBasics-mvc\\LinqBasics-mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\labuser\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cZ67c85YJ2opPmcmEIvujbvDmP79rJ4GDbVgHtFpMfoX2jdbvBW7AA5ht9NFsil9pIozMY//Ynwo8yVWsp1QaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\labuser\\source\\repos\\WebApplication2mvc\\WebApplication2mvc\\WebApplication2mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\labuser\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
