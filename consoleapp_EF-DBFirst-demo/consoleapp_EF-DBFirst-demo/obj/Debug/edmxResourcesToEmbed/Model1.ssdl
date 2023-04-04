@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EYDatabaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="customerss">
+    <Key>
+      <PropertyRef Name="customer_id" />
+    </Key>
+    <Property Name="customer_id" Type="int" Nullable="false" />
+    <Property Name="cust_name" Type="varchar" MaxLength="60" />
+    <Property Name="city" Type="varchar" MaxLength="50" />
+    <Property Name="grade" Type="int" />
+    <Property Name="salesman_id" Type="int" />
+  </EntityType>
+  <EntityContainer Name="EYDatabaseModelStoreContainer">
+    <EntitySet Name="customerss" EntityType="Self.customerss" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

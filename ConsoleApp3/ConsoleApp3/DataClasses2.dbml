@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="EYDatabase" Class="DataClasses2DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=Lab-Host\SQLEXPRESS03;Initial Catalog=EYDatabase;Integrated Security=True" SettingsObjectName="ConsoleApp3.Properties.Settings" SettingsPropertyName="EYDatabaseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.customerss" Member="customersses">
+    <Type Name="customerss">
+      <Column Name="customer_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="cust_name" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="city" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="grade" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

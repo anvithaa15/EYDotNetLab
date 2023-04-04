@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EYDatabaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="customerss">
+    <Key>
+      <PropertyRef Name="customer_id" />
+    </Key>
+    <Property Name="customer_id" Type="Int32" Nullable="false" />
+    <Property Name="cust_name" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="city" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="grade" Type="Int32" />
+    <Property Name="salesman_id" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="EYDatabaseEntities5" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="customersses" EntityType="Self.customerss" />
+  </EntityContainer>
+</Schema>

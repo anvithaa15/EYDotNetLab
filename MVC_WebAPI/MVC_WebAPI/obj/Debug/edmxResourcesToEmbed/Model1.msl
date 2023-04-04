@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EYDatabaseModelStoreContainer" CdmEntityContainer="EYDatabaseEntities">
+    <EntitySetMapping Name="customersses">
+      <EntityTypeMapping TypeName="EYDatabaseModel.customerss">
+        <MappingFragment StoreEntitySet="customerss">
+          <ScalarProperty Name="customer_id" ColumnName="customer_id" />
+          <ScalarProperty Name="cust_name" ColumnName="cust_name" />
+          <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="grade" ColumnName="grade" />
+          <ScalarProperty Name="salesman_id" ColumnName="salesman_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

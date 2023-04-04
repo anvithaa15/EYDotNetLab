@@ -1,0 +1,12 @@
+C:\Users\labuser\source\repos\consoleapp_EF-CodeFirst-demo\consoleapp_EF-CodeFirst-demo\bin\Debug\consoleapp_EF-CodeFirst-demo.exe.config
+C:\Users\labuser\source\repos\consoleapp_EF-CodeFirst-demo\consoleapp_EF-CodeFirst-demo\bin\Debug\consoleapp_EF-CodeFirst-demo.exe
+C:\Users\labuser\source\repos\consoleapp_EF-CodeFirst-demo\consoleapp_EF-CodeFirst-demo\bin\Debug\consoleapp_EF-CodeFirst-demo.pdb
+C:\Users\labuser\source\repos\consoleapp_EF-CodeFirst-demo\consoleapp_EF-CodeFirst-demo\bin\Debug\EntityFramework.dll
+C:\Users\labuser\source\repos\consoleapp_EF-CodeFirst-demo\consoleapp_EF-CodeFirst-demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\labuser\source\repos\consoleapp_EF-CodeFirst-demo\consoleapp_EF-CodeFirst-demo\bin\Debug\EntityFramework.xml
+C:\Users\labuser\source\repos\consoleapp_EF-CodeFirst-demo\consoleapp_EF-CodeFirst-demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\labuser\source\repos\consoleapp_EF-CodeFirst-demo\consoleapp_EF-CodeFirst-demo\obj\Debug\consoleapp_EF-CodeFirst-demo.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\consoleapp_EF-CodeFirst-demo\consoleapp_EF-CodeFirst-demo\obj\Debug\consoleapp_EF-CodeFirst-demo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\consoleapp_EF-CodeFirst-demo\consoleapp_EF-CodeFirst-demo\obj\Debug\consoleapp_EF-CodeFirst-demo.csproj.CopyComplete
+C:\Users\labuser\source\repos\consoleapp_EF-CodeFirst-demo\consoleapp_EF-CodeFirst-demo\obj\Debug\consoleapp_EF-CodeFirst-demo.exe
+C:\Users\labuser\source\repos\consoleapp_EF-CodeFirst-demo\consoleapp_EF-CodeFirst-demo\obj\Debug\consoleapp_EF-CodeFirst-demo.pdb

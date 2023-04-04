@@ -1,0 +1,12 @@
+C:\Users\labuser\source\repos\consoleapp_EF-DBFirst-demo\consoleapp_EF-DBFirst-demo\bin\Debug\consoleapp_EF-DBFirst-demo.exe.config
+C:\Users\labuser\source\repos\consoleapp_EF-DBFirst-demo\consoleapp_EF-DBFirst-demo\bin\Debug\consoleapp_EF-DBFirst-demo.exe
+C:\Users\labuser\source\repos\consoleapp_EF-DBFirst-demo\consoleapp_EF-DBFirst-demo\bin\Debug\consoleapp_EF-DBFirst-demo.pdb
+C:\Users\labuser\source\repos\consoleapp_EF-DBFirst-demo\consoleapp_EF-DBFirst-demo\bin\Debug\EntityFramework.dll
+C:\Users\labuser\source\repos\consoleapp_EF-DBFirst-demo\consoleapp_EF-DBFirst-demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\labuser\source\repos\consoleapp_EF-DBFirst-demo\consoleapp_EF-DBFirst-demo\bin\Debug\EntityFramework.xml
+C:\Users\labuser\source\repos\consoleapp_EF-DBFirst-demo\consoleapp_EF-DBFirst-demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\labuser\source\repos\consoleapp_EF-DBFirst-demo\consoleapp_EF-DBFirst-demo\obj\Debug\consoleapp_EF-DBFirst-demo.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\consoleapp_EF-DBFirst-demo\consoleapp_EF-DBFirst-demo\obj\Debug\consoleapp_EF-DBFirst-demo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\consoleapp_EF-DBFirst-demo\consoleapp_EF-DBFirst-demo\obj\Debug\consoleapp_EF-DBFirst-demo.csproj.CopyComplete
+C:\Users\labuser\source\repos\consoleapp_EF-DBFirst-demo\consoleapp_EF-DBFirst-demo\obj\Debug\consoleapp_EF-DBFirst-demo.exe
+C:\Users\labuser\source\repos\consoleapp_EF-DBFirst-demo\consoleapp_EF-DBFirst-demo\obj\Debug\consoleapp_EF-DBFirst-demo.pdb

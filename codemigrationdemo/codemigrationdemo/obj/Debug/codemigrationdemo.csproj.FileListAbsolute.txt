@@ -1,0 +1,16 @@
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\bin\Debug\codemigrationdemo.exe.config
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\bin\Debug\codemigrationdemo.exe
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\bin\Debug\codemigrationdemo.pdb
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\bin\Debug\EntityFramework.dll
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\bin\Debug\EntityFramework.xml
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\obj\Debug\codemigrationdemo.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\obj\Debug\codemigrationdemo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\obj\Debug\codemigrationdemo.csproj.CopyComplete
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\obj\Debug\codemigrationdemo.exe
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\obj\Debug\codemigrationdemo.pdb
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\obj\Debug\codemigrationdemo.Migrations.InitialCreate.resources
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\obj\Debug\codemigrationdemo.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\obj\Debug\codemigrationdemo.Migrations.MigrationForRoleInEmp.resources
+C:\Users\labuser\source\repos\codemigrationdemo\codemigrationdemo\obj\Debug\codemigrationdemo.Migrations.MigrationForAdrrInEmp.resources
